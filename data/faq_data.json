@@ -1,0 +1,92 @@
+[
+    {
+        "questions": [
+            "When was COEP established?",
+            "What is the history of COEP?"
+        ],
+        "answer": "COEP was established in 1854, making it one of the oldest engineering colleges in India.",
+        "category": "General Information",
+        "keywords": ["established", "history", "COEP"]
+    },
+    {
+        "questions": [
+            "How many branches does COEP offer?",
+            "What are the different engineering branches at COEP?"
+        ],
+        "answer": "COEP offers a wide range of branches including Civil, Computer, Electrical, Mechanical, and more.",
+        "category": "Courses & Programs",
+        "keywords": ["branches", "engineering", "COEP"]
+    },
+    {
+        "questions": [
+            "What is the ranking of COEP in India?",
+            "How is COEP ranked in terms of engineering colleges in India?"
+        ],
+        "answer": "COEP is consistently ranked among the top engineering colleges in India, securing a position in the NIRF rankings.",
+        "category": "Ranking",
+        "keywords": ["ranking", "COEP", "NIRF"]
+    },
+    {
+        "questions": [
+            "Where is COEP located?",
+            "What is the location of COEP?"
+        ],
+        "answer": "COEP is located in Shivajinagar, Pune, Maharashtra, India.",
+        "category": "General Information",
+        "keywords": ["location", "COEP", "Pune"]
+    },
+    {
+        "questions": [
+            "What is the admission process at COEP?",
+            "How can I apply to COEP?"
+        ],
+        "answer": "Admission to COEP is based on the Maharashtra CET and JEE Main scores, followed by a counseling process.",
+        "category": "Admission",
+        "keywords": ["admission", "process", "COEP", "Maharashtra CET", "JEE Main"]
+    },
+    {
+        "questions": [
+            "What is the fee structure for COEP?",
+            "How much is the annual fee at COEP?"
+        ],
+        "answer": "The annual fee at COEP varies depending on the course and category, but it generally falls within the range of INR 1,00,000 to INR 2,00,000 for undergraduate courses.",
+        "category": "Fees & Scholarships",
+        "keywords": ["fee", "structure", "COEP", "undergraduate"]
+    },
+    {
+        "questions": [
+            "Does COEP offer scholarships?",
+            "What are the scholarships available at COEP?"
+        ],
+        "answer": "Yes, COEP offers several scholarships based on merit and financial need, including government-sponsored scholarships and institutional awards.",
+        "category": "Fees & Scholarships",
+        "keywords": ["scholarships", "COEP", "merit", "financial need"]
+    },
+    {
+        "questions": [
+            "What are the campus facilities at COEP?",
+            "What facilities does COEP offer for students?"
+        ],
+        "answer": "COEP provides a variety of facilities including hostels, libraries, sports grounds, laboratories, and more.",
+        "category": "Campus Life",
+        "keywords": ["facilities", "campus", "COEP", "students"]
+    },
+    {
+        "questions": [
+            "Who are the notable alumni of COEP?",
+            "Can you name some famous COEP alumni?"
+        ],
+        "answer": "COEP has produced many notable alumni in various fields, including successful entrepreneurs, politicians, and engineers.",
+        "category": "Alumni",
+        "keywords": ["notable alumni", "famous", "COEP"]
+    },
+    {
+        "questions": [
+            "What is the placement record of COEP?",
+            "How good are the placements at COEP?"
+        ],
+        "answer": "COEP has an excellent placement record, with top companies from various industries recruiting its graduates.",
+        "category": "Placements",
+        "keywords": ["placements", "COEP", "record", "companies"]
+    }
+]
