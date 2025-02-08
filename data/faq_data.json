@@ -90,3 +90,133 @@
         "keywords": ["placements", "COEP", "record", "companies"]
     }
 ]
+
+[
+    {
+      "questions": [
+        "What are the eligibility criteria for undergraduate programs at COEP?",
+        "Who can apply for UG courses at COEP?"
+      ],
+      "answer": "Candidates must have completed 10+2 with Physics, Chemistry, and Mathematics, and have a valid MHT-CET or JEE Main score.",
+      "category": "Eligibility Criteria",
+      "keywords": ["eligibility", "undergraduate", "UG", "COEP"]
+    },
+    {
+      "questions": [
+        "What are the eligibility criteria for postgraduate programs at COEP?",
+        "Who can apply for PG courses at COEP?"
+      ],
+      "answer": "Applicants should have a relevant bachelor's degree and a valid GATE score for M.Tech programs.",
+      "category": "Eligibility Criteria",
+      "keywords": ["eligibility", "postgraduate", "PG", "COEP"]
+    },
+    {
+      "questions": [
+        "Which entrance exams are accepted for COEP admissions?",
+        "Does COEP accept JEE Main scores?"
+      ],
+      "answer": "COEP accepts MHT-CET and JEE Main scores for undergraduate admissions and GATE scores for postgraduate admissions.",
+      "category": "Entrance Exams",
+      "keywords": ["entrance exams", "JEE Main", "MHT-CET", "GATE", "COEP"]
+    },
+    {
+      "questions": [
+        "How can I apply for admission to COEP?",
+        "What is the application process for COEP?"
+      ],
+      "answer": "Students need to apply online through the official website by filling out the application form, uploading documents, and paying the required fees.",
+      "category": "Application Process",
+      "keywords": ["apply", "application", "admission", "COEP"]
+    },
+    {
+      "questions": [
+        "What documents are required for the COEP admission process?",
+        "Which documents should I submit for admission to COEP?"
+      ],
+      "answer": "Applicants need to submit their 10th and 12th mark sheets, entrance exam scorecard, caste certificate (if applicable), and other relevant documents.",
+      "category": "Application Process",
+      "keywords": ["documents", "admission", "COEP"]
+    },
+    {
+      "questions": [
+        "What is the selection procedure for COEP admissions?",
+        "How are students selected for admission to COEP?"
+      ],
+      "answer": "Selections are made based on merit, entrance exam scores, and, in some cases, interviews or counseling rounds.",
+      "category": "Selection Procedure",
+      "keywords": ["selection", "merit", "interview", "COEP"]
+    },
+    {
+      "questions": [
+        "When does the counseling process for COEP admissions start?",
+        "What are the important dates for COEP counseling?"
+      ],
+      "answer": "The counseling process usually begins after the entrance exam results are announced. Specific dates are updated on the COEP official website.",
+      "category": "Counseling Process",
+      "keywords": ["counseling", "admission", "COEP"]
+    },
+    {
+      "questions": [
+        "How is seat allocation done at COEP?",
+        "What is the seat allotment process at COEP?"
+      ],
+      "answer": "Seats are allocated based on entrance exam scores, category reservations, and merit ranking.",
+      "category": "Counseling Process",
+      "keywords": ["seat allocation", "admission", "COEP"]
+    },
+    {
+      "questions": [
+        "What are the fees for various programs at COEP?",
+        "How much does it cost to study at COEP?"
+      ],
+      "answer": "The fee structure varies for different programs. Details are available on the COEP official website.",
+      "category": "Fees & Scholarships",
+      "keywords": ["fees", "tuition", "cost", "COEP"]
+    },
+    {
+      "questions": [
+        "Are scholarships available for students at COEP?",
+        "Does COEP provide financial assistance?"
+      ],
+      "answer": "Yes, COEP offers various scholarships based on merit and financial need. Details are available on the website.",
+      "category": "Fees & Scholarships",
+      "keywords": ["scholarships", "financial aid", "COEP"]
+    },
+    {
+      "questions": [
+        "Does COEP provide hostel facilities?",
+        "What are the hostel charges at COEP?"
+      ],
+      "answer": "Yes, COEP provides hostel facilities for both boys and girls with reasonable charges. Fees and availability details can be found on the official website.",
+      "category": "Facilities",
+      "keywords": ["hostel", "accommodation", "COEP"]
+    },
+    {
+      "questions": [
+        "What are the placement opportunities at COEP?",
+        "Does COEP have a good placement record?"
+      ],
+      "answer": "COEP has an excellent placement record with top recruiters visiting the campus each year. Placement statistics are updated annually.",
+      "category": "Placements",
+      "keywords": ["placement", "jobs", "recruiters", "COEP"]
+    },
+    {
+      "questions": [
+        "What is the admission cd COEP_faq_chatbotprocess for international students?",
+        "Can foreign students apply to COEP?"
+      ],
+      "answer": "Yes, international students can apply through the DASA scheme or other designated admission processes. Details are available on the COEP website.",
+      "category": "International Admissions",
+      "keywords": ["international", "foreign students", "DASA", "COEP"]
+    },
+    {
+      "questions": [
+        "What is the syllabus for the entrance exams?",
+        "Where can I find the exam syllabus for COEP admissions?"
+      ],
+      "answer": "The syllabus for entrance exams like MHT-CET and JEE Main follows the standard Physics, Chemistry, and Mathematics syllabus of 11th and 12th grade.",
+      "category": "Entrance Exams",
+      "keywords": ["syllabus", "exam pattern", "COEP"]
+    }
+   ]
+   
