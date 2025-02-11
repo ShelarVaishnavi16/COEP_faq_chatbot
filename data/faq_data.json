@@ -217,6 +217,17 @@
       "answer": "The syllabus for entrance exams like MHT-CET and JEE Main follows the standard Physics, Chemistry, and Mathematics syllabus of 11th and 12th grade.",
       "category": "Entrance Exams",
       "keywords": ["syllabus", "exam pattern", "COEP"]
+    },
+
+    {
+      "questions": [
+        "Can we pay the fees in installment?"
+      ],
+      "answer": "Yes , you can pay the fee in installment. For that you have to take permission of finance officer of COEP",
+      "category": "Fees",
+      "keywords": ["installment", "Fee", "COEP"]
     }
+
+    
    ]
    
